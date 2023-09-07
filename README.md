@@ -6,7 +6,7 @@
       **Temos a base de dados do instagram desde que o usuário começou a postar na marca até o dia 27/março**</br>
  **Ele também da alguns direcionamentos:**
  * Podem ignorar a coluna vizualizações, queremos entender apenas curtidas, comentários e interações
- * Tags vazias é que realmente não possuem tag(tratar como vazio)**</br>
+ * Tags vazias é que realmente não possuem tag(tratar como vazio)</br>
 **Conhecimentos adquiridos:**
 * Mostrar tratamento de dados
 * Intertretação dos dados
