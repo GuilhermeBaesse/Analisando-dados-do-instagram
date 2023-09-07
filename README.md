@@ -1,7 +1,7 @@
 # Analisando-dados-do-instagram
 **Projeto para fins educativos com objetivo de mostrar o que um cientista de dados deve levar em consideração ao fazer análise de dados na prática**
 **Objetivos:**
-* O que queremos responder?
+* O que queremos responder?</br>
       * Qual o tipo de conteúdo que mais engaja no instagram da minha empresa?
       * Temos a base de dados do instagram desde que o usuário começou a postar na marca até o dia 27/março
       * Ele também da alguns direcionamentos:
