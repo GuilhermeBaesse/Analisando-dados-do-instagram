@@ -1,5 +1,5 @@
 # Analisando-dados-do-instagram
-**Projeto para fins educativos com objetivo de mostrar o que um cientista de dados deve levar em consideração ao fazer análise de dados na prática**
+**Projeto para fins educativos com objetivo de mostrar o que um cientista de dados deve levar em consideração ao fazer análise de dados na prática e levar informações relevantes para o cliente**</br>
 **Objetivos:**
 * O que queremos responder?
 * Qual o tipo de conteúdo que mais engaja no instagram da minha empresa?**<br/>
