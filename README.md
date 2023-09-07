@@ -1,12 +1,12 @@
 # Analisando-dados-do-instagram
 **Projeto para fins educativos com objetivo de mostrar o que um cientista de dados deve levar em consideração ao fazer análise de dados na prática**
 **Objetivos:**
-* O que queremos responder?</br>
-  **Qual o tipo de conteúdo que mais engaja no instagram da minha empresa?**<br/>
+* O que queremos responder?
+* Qual o tipo de conteúdo que mais engaja no instagram da minha empresa?**<br/>
       **Temos a base de dados do instagram desde que o usuário começou a postar na marca até o dia 27/março**</br>
  **Ele também da alguns direcionamentos:**
  * Podem ignorar a coluna vizualizações, queremos entender apenas curtidas, comentários e interações
- * Tags vazias é que realmente não possuem tag(tratar como vazio)**
+ * Tags vazias é que realmente não possuem tag(tratar como vazio)**</br>
 **Conhecimentos adquiridos:**
 * Mostrar tratamento de dados
 * Intertretação dos dados
